@@ -17,6 +17,4 @@
 
 <picture> <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 	
-<p align = "center">
-	<img src = "https://github.com//Udari2002//Udari2002/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
