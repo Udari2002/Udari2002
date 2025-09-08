@@ -10,8 +10,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/moksha perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moksha perera" height="30" width="40" /></a>
+	
 <a href="https://www.linkedin.com/in/udari-moksha-ruhuna" target="_blank">  <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/linkedin.svg" alt="Udari Moksha" height="30" width="40" />
-
+<a href="https://linkedin.com/in/udari-moksha-ruhuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Udari Moksha" height="30" width="40" /></a>
+	
 <a href="https://instagram.com/udari_moksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udari_moksha" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
