@@ -6,7 +6,6 @@
 - 📫 How to reach me **udari2002perera@gmail.com**
 
 - ⚡ *live little😉👨‍💻🚣🏸🎨✍️*
--  ![AlabamaCrimsonTideNickSabanGIF](https://github.com/user-attachments/assets/d0f12dea-a81e-43a4-bc89-86927c8b3e19)
 
 
 <h3 align="center">Connect with me:</h3>
