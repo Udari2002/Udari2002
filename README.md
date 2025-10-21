@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **udari2002perera@gmail.com**
 
-- ⚡ Fun fact **--live little---😉👨‍💻![HarryMaguireManchesterunitedGIF](https://github.com/user-attachments/assets/e56626ac-d0b4-43d9-91a6-3a4342f5af2d)
-**
+- ⚡ Fun fact **live little😉👨‍💻🚣🏸🎨✍️**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
